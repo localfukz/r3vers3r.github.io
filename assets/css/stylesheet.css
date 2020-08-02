@@ -71,7 +71,7 @@ pre {
 	left: 50%;
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
-	font-size: 1.15em;
+	font-size: 1em;
 }
 #brand {
 	color: #e4e3e3;
