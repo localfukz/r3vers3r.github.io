@@ -74,10 +74,13 @@
                 clearCursor();    
                     type(["keen interest in <span style='font-weight: 700; color: #ff00bb;'>Reversing</span>, <span style='font-weight: 700; color: #ff00bb;'>Pwn</span>, <span style='font-weight: 700; color: #ff00bb;'>Malware Analysts</span>."], 30, 500, function(){
                     clearCursor();
-                        type(["Here i write different security stuff, writeups, anxiety, opinion, etc."], 30, 500, function(){
+                        type(["Playing <span style='font-weight: 700; color: #ff00bb;'>CTF</span>, and learning some <span style='font-weight: 700; color: #ff00bb;'>Web Development</span>."], 30, 500, function(){
                         clearCursor();
-                           type(["want to make friends? feel free to contact me. Have a nice day!."], 30, 500, function(){
+                           type(["Here i write about different security stuff, writeups, opinion, anxiety."], 30, 500, function(){
                            clearCursor();
+                               type(["want to make friends? feel free to contact me. Have a nice day!"], 30, 500, function(){
+                               clearCursor();
+                               });
                         });
                     });
                 });
