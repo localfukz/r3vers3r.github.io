@@ -63,6 +63,7 @@ pre {
 }
 .container {
 	position: fixed;
+	margin-top: 1rem;
 	top: 9%;
 	left: 6%;
 	font-size: 1em;
@@ -126,32 +127,13 @@ li{
 	margin: 0;
 	padding: 0;
 }
-.link{
-	text-decoration: none;
-	color: #e4e3e3;
-	border-bottom: 2px solid #e4e3e3;
-	padding-bottom: 2px;
-}
-.link:hover, .link:focus{
-	text-decoration: none;
-	color: #e4e3e3;
-	border-bottom: 2px solid #be60d1;
-	padding-bottom: 3px;
-}
 .nav{
 	font-size: 1.15em
 }
-
-.a404:hover, .a404:focus{
-	text-decoration: none;
-	border-bottom: 2px solid #be60d1;
-	padding-bottom: 2px;
-}
 .kontak{
-	position: absolute;
 	padding: 5px;
 	bottom: 0;
-	font-size: 1.25em;
+	font-size: 1.5em;
 }
 .kontak a:hover{
 	color: #ff00dd;
