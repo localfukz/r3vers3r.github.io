@@ -158,7 +158,6 @@
     }
     setTimeout(function () 
     {
-//a
         $('.container').fadeIn();
 
         $('.background').fadeIn(200, function () {
