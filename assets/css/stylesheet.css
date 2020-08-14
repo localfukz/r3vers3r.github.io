@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 html {
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
@@ -17,15 +19,10 @@ body, input {
 	background-color: #000
 }
 
-@font-face {
-	font-family: courier_regular;
-	src: url("../others/Consolas.ttf");
-}
-
 * {
 	padding: 0;
 	margin: 0;
-	font-family: consolas, monospace;
+	font-family: 'Ubuntu Mono', monospace;
 }
 
 body {
