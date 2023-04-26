@@ -82,7 +82,7 @@ pre {
 }
 
 .background {
-	background: url("https://rare-gallery.com/mocahbig/442469-rain-street-pixel-art-night-phone-box.png");
+	background: url('https://rare-gallery.com/mocahbig/442469-rain-street-pixel-art-night-phone-box.png');
 	background-size: cover;
 	width: 100%;
 	height: 100%;
