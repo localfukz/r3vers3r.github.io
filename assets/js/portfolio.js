@@ -93,7 +93,7 @@
             $('.skofos').animateCss('pulse');
             let b = baffle('.skofos', 
             {
-                characters: "SsKkOoFf50",
+                characters: "rR1ifFdD4Aa",
                 speed: 90
             }).start();
             b.reveal(1000,1500);
